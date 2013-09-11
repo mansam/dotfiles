@@ -1,1 +1,1 @@
-/home/mansam/.spf13-vim-3/.vimrc
+.spf13-vim-3/.vimrc
